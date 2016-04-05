@@ -1,5 +1,11 @@
-* 
-*
 
-El Festival Latinoamericano de Instalación de Software Libre es el evento mas grande que se realiza a nivel latinoamerica donde se llevan una serie de charlas, conferencias y talleres y sobre todo el tradicional “Installfest” que consiste en compartir e instalar Software Libre ya sea brindando discos como instalando el software en las computadoras de los asistentes que así lo deseen. Dentro del IPN se ha realizado en algunas escuelas tanto nivel medio superior como superior por mencionar algunas de ellas: ESCOM, CECyT 9 “Juan de Dios Batiz Paredes”, ESIME Culhuacan, ESIME Zacatenco, UPIITA, UPIICSA. Este evento se ha realizado desde hace 11 años en el politécnico con apoyo e iniciativa de la comunidad de alumnos, egresados, comunidades tecnológicas de México, de manera libre y voluntaria. De esta manera se busca fomentar el uso de software libre como alternativa legal y acceso a la información de manera libre. 
+* El Festival Latinoamericano de Instalación de Software Libre es el evento más grande que se realiza a nivel latinoamérica. 
+
+Éste se realiza con apoyo e iniciativa de la comunidad de alumnos, egresados, comunidades tecnológicas de México, de manera libre y voluntaria.  busca fomentar el uso de software libre (SL) como alternativa legal y acceso a la información de manera libre. 
+
+De esta manera se proporcionan las herramientas a los asistentes para la instalación de manera gratuita y totalmente legal de SL. Además, en forma paralela, se ofrecen charlas, ponencias y talleres, sobre temáticas locales, nacionales y latinoamericanas en torno al Software Libre, en toda su gama de expresiones: artística, académica, empresarial y social.
+
+En nuestro caso las diversas actividades estarán dirigidas en su mayoría al ámbito académico y científico, ofertando la enseñanza de la teoría y práctica de poderosas herramientas con una amplia adopción en estas áreas.  Tales como lenguajes de programación para análisis estadístico  hasta programas para el manejo eficiente de archivos en tu computadora (por citar algunos ejemplos).
+
+
 

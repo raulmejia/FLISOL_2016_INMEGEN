@@ -1,5 +1,4 @@
-# FLISOL 2016 :
-##  Sede INMEGEN
+# FLISOL 2016 : Sede INMEGEN
 
 El _Festival Latinoamericano de Instalación de Software Libre_ _(FLISoL)_ es el evento más grande que se realiza a nivel latinoamérica. 
 

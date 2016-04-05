@@ -6,11 +6,11 @@ De esta manera se proporcionan las herramientas a los asistentes para la instala
 
 En nuestro caso **(FLISoL 2016 sede INMEGEN)** las diversas actividades estarán dirigidas en su mayoría al ámbito académico y científico, ofertando la enseñanza de la teoría y práctica de poderosas herramientas con una amplia adopción en estas áreas.  Las cuales van desde lenguajes de programación para análisis estadístico  hasta programas para el manejo eficiente de archivos en tu computadora (por citar algunos ejemplos).
 
-| Taller        | Ponente           |
-| ------------- |:-------------:|
-| Programación en Python      | Rodrigo García |
-| Programación en R      | Adriana Rosas      |
-| BASH  | Raúl Mejía      |
+| Taller        | Ponente           
+| ------------- |:-------------:
+| Programación en Python      | Rodrigo García 
+| Programación en R      | Adriana Rosas      
+| BASH  | Raúl Mejía      
 
 
 

@@ -1,5 +1,5 @@
 
-* El Festival Latinoamericano de Instalación de Software Libre es el evento más grande que se realiza a nivel latinoamérica. 
+# El Festival Latinoamericano de Instalación de Software Libre es el evento más grande que se realiza a nivel latinoamérica. 
 
 Éste se realiza con apoyo e iniciativa de la comunidad de alumnos, egresados, comunidades tecnológicas de México, de manera libre y voluntaria.  busca fomentar el uso de software libre (SL) como alternativa legal y acceso a la información de manera libre. 
 

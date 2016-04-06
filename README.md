@@ -12,7 +12,7 @@ En nuestro caso **(FLISoL 2016 sede INMEGEN)** las diversas actividades estarán
  Manejo de tu S.O. mediante BASH  | Raúl Mejía  
  Programación en Python, caso de aplicación  Biomédicina | Rodrigo García 
  Programación en R con aplicaciones cartográficas    | Adriana Rosas      
- Cifrado de archivos y mensajes | Joshua Hasse
+ Cifrado de mensajería mediante GPG | Joshua Hasse
     
 
 

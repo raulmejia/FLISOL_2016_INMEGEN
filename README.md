@@ -8,21 +8,11 @@ En nuestro caso **(FLISoL 2016 sede INMEGEN)** las diversas actividades estarán
 
  Taller        | Ponente           
  ------------- |-------------
- Programación en Python      | Rodrigo García 
- Programación en R      | Adriana Rosas      
- BASH  | Raúl Mejía      
+ Introducción a la cultura libre | Edgar Domínguez 
+ Manejo de tu S.O. mediante BASH  | Raúl Mejía  
+ Programación en Python caso de aplicación  Minería de textos | Rodrigo García 
+ Programación en R con aplicaciones cartográficas    | Adriana Rosas      
+ Desarrollo de software colaborativo en Github | Joshua Hasse
+    
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-
-
-
-Programación en Python -- Rodrigo García.
-
-Programación en R -- Adriana Rosas.
-
-BASH un acercamiento a el corazón de tu sistema -- Raúl Mejía.
 

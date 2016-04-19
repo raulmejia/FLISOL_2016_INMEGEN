@@ -8,11 +8,14 @@ En nuestro caso **(FLISoL 2016 sede INMEGEN)** las diversas actividades estarán
 
  Taller        | Ponente           
  ------------- |-------------
- Introducción a la cultura libre | Edgar Domínguez 
- Manejo de tu S.O. mediante BASH  | Raúl Mejía  
- Programación en Python, caso de aplicación  Biomédicina | Rodrigo García 
+ Cómputo Científico desde la línea de comandos | Raúl Mejía  
+ La cultura libre en la ciencia y sociedad | Edgar Domínguez 
+ Análisis de datos genómicos con Python | Rodrigo García 
+ Minería de datos para Redes Sociales | Daniel Dahink
  Programación en R con aplicaciones cartográficas    | Adriana Rosas      
- Cifrado de mensajería mediante GPG | Joshua Hasse
+ Cinematografía para documental científico con software libre | Ehécatl Cabrera
+ Seguridad computacional en la transmisión de mensajes | Joshua Hasse
+ 
     
 
 

@@ -8,11 +8,12 @@ En nuestro caso **(FLISoL 2016 sede INMEGEN)** las diversas actividades estarán
 
  Taller        | Ponente           
  ------------- |-------------
- Cómputo Científico desde la línea de comandos | Raúl Mejía  
  La cultura libre en la ciencia y sociedad | Edgar Domínguez 
  Análisis de datos genómicos con Python | Rodrigo García 
  Minería de datos para Redes Sociales | Daniel Dahink
  Programación en R con aplicaciones cartográficas    | Adriana Rosas      
+ Seguridad en servidores | Francisco Islas
+ Cómputo Científico desde la línea de comandos | Raúl Mejía  
  Cinematografía para documental científico con software libre | Ehécatl Cabrera
  Seguridad computacional en la transmisión de mensajes | Joshua Hasse
  

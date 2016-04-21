@@ -17,5 +17,5 @@ En nuestro caso **(FLISoL 2016 sede INMEGEN)** las diversas actividades estarán
  Seguridad computacional en la transmisión de mensajes | Joshua Hasse
  
     
-
+<img src="https://raw.githubusercontent.com/raulmejia/FLISOL_2016_INMEGEN/master/cartel_verde_blanco_SOlibre_50percent.png">
 
